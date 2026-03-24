@@ -3,4 +3,4 @@ this is a super coool training project
 
 There are somemodule in here taken straight from odoo community, just as examples, please don't sue me
 
-I am just testing
+I am just testing 12345
